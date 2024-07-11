@@ -154,6 +154,12 @@
 
 
 @media all and (max-width:800px){
+   
+    .tm-card{
+    padding:15px;
+    border-radius: 18px;
+}
+    
     .tm-card img{
     width:20%;
     order: 1;
